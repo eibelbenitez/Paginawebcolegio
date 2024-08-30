@@ -1,0 +1,2 @@
+# Paginawebcolegio
+es una web
